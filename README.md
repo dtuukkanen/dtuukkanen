@@ -5,7 +5,7 @@ Software Engineering Student
 I'm second year software engineering student at LUT University. I have a strong passion for computers and IT in general.
 
 * 🌍  I'm based in Finland
-* 🧠  I'm learning Data structures and algorithms, full stack, cyber security, testing
+* 🧠  I'm learning data structures and algorithms, full stack, cyber security, testing
 * 🤝  I'm open to collaborating on any projects
 * ⚡  I have participated in hackathons such as Junction 2023.
 
