@@ -2,7 +2,7 @@ Hi 👋 My name is Daniel Tuukkanen
 ========================================================================================================================================
 Computer Science Student
 ----------------------------
-I'm second year software engineering student at LUT University. I have a strong passion for computers and IT in general.
+I'm second year computer science student at LUT University. I have a strong passion for computers and IT in general.
 
 * 🌍  I'm based in Finland
 * 🧠  I'm learning data structures and algorithms, full stack, cyber security, testing
