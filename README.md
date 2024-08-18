@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student at LUT University</h3>
 
 - 🌱 I’m currently learning **Web Development, OS programming**
-- ⚡️ Participated Junction 2023 Hackathon
+- ⚡️ Participated in Junction 2023 Hackathon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
