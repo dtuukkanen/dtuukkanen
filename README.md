@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Tuukkanen</h1>
 <h3 align="center">Software Engineering Student at LUT University</h3>
 
-- 🌱 I’m currently learning **Web Development, OS programming**
-- ⚡️ Participated in Junction 2023 Hackathon
+- 🌱 I’m currently learning **Web Development and OS programming**
+- ⚡️ Participated in multiple hackathons (Junction 2023 and 2024, Telia Cyber Battle and The Finnish Game Jam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
